@@ -8,7 +8,7 @@ image:
   repository: bobbybabu007/python-flask-docker-sample
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.0.0"
+  tag: "1.1.0"
 containerPort: 5000
 imagePullSecrets: []
 nameOverride: ""
