@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is my master to maiin
+=======
+this is my master to maiin
+this is example of new merge
+Pratice for merge
+another examle for merge
+>>>>>>> feature/login
